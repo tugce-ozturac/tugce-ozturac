@@ -8,7 +8,7 @@
 
 ✨ Computer Engineering Graduate  @ Dumlupınar University  
 📚 Passion for Java, Kotlin, C#  
-💡 “Code. Create. Conquer.”  
+💡 "Stand out. Leave your mark."
 
 <p align="center">
   <b>💻 Tech & Tools I Work With</b>
