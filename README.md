@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-✨ Computer Engineering student @ Dumlupınar University  
+✨ Computer Engineering Graduate  @ Dumlupınar University  
 📚 Passion for Java, Kotlin, C#  
 💡 “Code. Create. Conquer.”  
 
