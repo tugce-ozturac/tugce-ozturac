@@ -43,7 +43,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tugce-ozturac/" target="_blank">
+  <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-%C3%B6ztura%C3%A7-bb520a268/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:tugceozturac@example.com">
