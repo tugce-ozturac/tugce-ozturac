@@ -1,19 +1,20 @@
 <!-- Banner -->
 <h1 align="center">🌑 Tuğçe Özturaç</h1>
-<h3 align="center">💻 Computer Engineer | Mobile  🚀</h3>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="Coding woman gif"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </p>
 
 ---
 
 ## 🖤 About Me  
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ff4dd2&center=true&vCenter=true&lines=Computer+Engineer;Dumlupınar+University;Mobile+App+Developer;Stand+out+.+Leave+your+mark.+%F0%9F%92%A1" />
+</p>     
 
-🎓 Computer Engineering Graduate @ Dumlupınar University  
-💻 Focused on **Mobile Apps (Flutter, Kotlin)** & **Game Development (Java, LibGDX, C#)**  
-🌌 Passionate about writing clean code & creating impactful projects  
-⚡ Motto: *"Stand out. Leave your mark."*
+
 
 ---
 
@@ -35,9 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugce-ozturac&theme=radical&hide_border=true&background=0D1117" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tugce-ozturac&theme=react-dark&hide_border=true&bg_color=0D1117" />
-</p>
+
 
 ---
 
@@ -50,9 +49,19 @@
   <a href="mailto:tugceozturac@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://instagram.com/heytuces" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://github.com/tugce-ozturac" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
+
+
+
+
 
 
 
