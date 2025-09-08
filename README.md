@@ -1,20 +1,16 @@
-<!-- Banner -->
-<h1 align="center">🌑 Tuğçe Özturaç</h1>
 
+
+---
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ff4dd2&center=true&vCenter=true&lines=Tugce+Ozturac;Computer+Engineer;Dumlupınar+University;Mobile+App+Developer;Stand+out+.+Leave+your+mark." />
+</p>     
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </p>
-
----
-
-## 🖤 About Me  
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ff4dd2&center=true&vCenter=true&lines=Computer+Engineer;Dumlupınar+University;Mobile+App+Developer;Stand+out+.+Leave+your+mark.+%F0%9F%92%A1" />
-</p>     
-
-
 
 ---
 
