@@ -3,7 +3,7 @@
 <h3 align="center">💻 Computer Engineer | Mobile & Game Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding gif"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)" alt="Coding gif"/>
 </p>
 
 ---
